@@ -51,7 +51,7 @@ class Test_test1(unittest.TestCase):
         self.assertEqual(expResult[0], actResult[0])
     def test_6(self):
         expError = ""
-        expResult = [ -4, 1 ]
+        expResult = [ 1, -4 ]
         a = 1
         b = 3
         c = -4
