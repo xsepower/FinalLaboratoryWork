@@ -13,4 +13,4 @@ deploy:
   on:
     repo: xsepower/FinalLaboratoryWork
     branch: dev
-    tags: true
+    tags: false
