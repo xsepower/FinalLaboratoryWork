@@ -1,3 +1,7 @@
+language: python
+puthon: 3.8
+script:
+  echo Starting work...
 import:
 - source: .travis/default.yml
   if: branch = dev
